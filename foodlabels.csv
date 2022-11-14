@@ -1,0 +1,979 @@
+id,foods,is_low_kcal,nutrients
+1,hamburger,0,"fats, protein"
+2,hamburger,0,"fats, protein"
+3,sweetpotato,1,"carbohydrate,fiber"
+4,sweetpotato,1,"carbohydrate,fiber"
+5,sweetpotato,1,"carbohydrate,fiber"
+6,sweetpotato,1,"carbohydrate,fiber"
+7,sweetpotato,1,"carbohydrate,fiber"
+8,sweetpotato,1,"carbohydrate,fiber"
+9,sweetpotato,1,"carbohydrate,fiber"
+10,sweetpotato,1,"carbohydrate,fiber"
+11,sweetpotato,1,"carbohydrate,fiber"
+12,sweetpotato,1,"carbohydrate,fiber"
+13,sweetpotato,1,"carbohydrate,fiber"
+14,sweetpotato,1,"carbohydrate,fiber"
+15,sweetpotato,1,"carbohydrate,fiber"
+16,sweetpotato,1,"carbohydrate,fiber"
+17,sweetpotato,1,"carbohydrate,fiber"
+18,sweetpotato,1,"carbohydrate,fiber"
+19,sweetpotato,1,"carbohydrate,fiber"
+20,sweetpotato,1,"carbohydrate,fiber"
+21,sweetpotato,1,"carbohydrate,fiber"
+22,sweetpotato,1,"carbohydrate,fiber"
+23,sweetpotato,1,"carbohydrate,fiber"
+24,sweetpotato,1,"carbohydrate,fiber"
+25,sweetpotato,1,"carbohydrate,fiber"
+26,sweetpotato,1,"carbohydrate,fiber"
+27,sweetpotato,1,"carbohydrate,fiber"
+28,sweetpotato,1,"carbohydrate,fiber"
+29,sweetpotato,1,"carbohydrate,fiber"
+30,sweetpotato,1,"carbohydrate,fiber"
+31,sweetpotato,1,"carbohydrate,fiber"
+32,sweetpotato,1,"carbohydrate,fiber"
+33,sweetpotato,1,"carbohydrate,fiber"
+34,sweetpotato,1,"carbohydrate,fiber"
+35,sweetpotato,1,"carbohydrate,fiber"
+36,sweetpotato,1,"carbohydrate,fiber"
+37,sweetpotato,1,"carbohydrate,fiber"
+38,sweetpotato,1,"carbohydrate,fiber"
+39,sweetpotato,1,"carbohydrate,fiber"
+40,sweetpotato,1,"carbohydrate,fiber"
+41,chicken_chest,1,protein
+42,chicken_chest,1,protein
+43,chicken_chest,1,protein
+44,chicken_chest,1,protein
+45,chicken_chest,1,protein
+46,chicken_chest,1,protein
+47,chicken_chest,1,protein
+48,chicken_chest,1,protein
+49,chicken_chest,1,protein
+50,chicken_chest,1,protein
+51,chicken_chest,1,protein
+52,chicken_chest,1,protein
+53,chicken_chest,1,protein
+54,chicken_chest,1,protein
+55,chicken_chest,1,protein
+56,chicken_chest,1,protein
+57,chicken_chest,1,protein
+58,chicken_chest,1,protein
+59,chicken_chest,1,protein
+60,chicken_chest,1,protein
+61,chicken_chest,1,protein
+62,"chicken_chest,salad",1,protein
+63,chicken_chest,1,protein
+64,chicken_chest,1,protein
+65,chicken_chest,1,protein
+66,chicken_chest,1,protein
+67,chicken_chest,1,protein
+68,chicken_chest,1,protein
+69,chicken_chest,1,protein
+70,chicken_chest,1,protein
+71,salad,1,fiber
+72,salad,1,fiber
+73,salad,1,fiber
+74,salad,1,fiber
+75,salad,1,fiber
+76,salad,1,fiber
+77,salad,1,fiber
+78,salad,1,fiber
+79,salad,1,fiber
+80,salad,1,fiber
+81,salad,1,fiber
+82,salad,1,fiber
+83,salad,1,fiber
+84,salad,1,fiber
+85,salad,1,fiber
+86,salad,1,fiber
+87,salad,1,fiber
+88,salad,1,fiber
+89,salad,1,fiber
+90,salad,1,fiber
+91,salad,1,fiber
+92,salad,1,fiber
+93,salad,1,fiber
+94,salad,1,fiber
+95,salad,1,fiber
+96,salad,1,fiber
+97,salad,1,fiber
+98,salad,1,fiber
+99,salad,1,fiber
+100,salad,1,fiber
+101,salad,1,fiber
+102,salad,1,fiber
+103,salad,1,fiber
+104,salad,1,fiber
+105,salad,1,fiber
+106,salad,1,fiber
+107,salad,1,fiber
+108,salad,1,fiber
+109,"salad,salmon",1,"fiber,protein"
+110,salmon,1,protein
+111,salmon,1,protein
+112,salmon,1,protein
+113,salmon,1,"protein,carbohydrate"
+114,salmon,1,protein
+115,salmon,1,protein
+116,salmon,1,protein
+117,salmon,1,protein
+118,salmon,1,protein
+119,salmon,1,protein
+120,salmon,1,protein
+121,salmon,1,protein
+122,salmon,1,protein
+123,salmon,1,protein
+124,salmon,1,protein
+125,salmon,1,protein
+126,salmon,1,protein
+127,salmon,1,protein
+128,salmon,1,protein
+129,salmon,1,protein
+130,salmon,1,protein
+131,salmon,1,protein
+132,salmon,1,protein
+133,salmon,1,protein
+134,salmon,1,protein
+135,salmon,1,protein
+136,salmon,1,protein
+137,salmon,1,protein
+138,salmon,1,protein
+139,salmon,1,protein
+140,salmon,1,protein
+141,salmon,1,protein
+142,salmon,1,protein
+143,salmon,1,protein
+144,salmon,1,protein
+145,salmon,1,protein
+146,salmon,1,protein
+147,salmon,1,protein
+148,oatmeal,1,carbohydrate
+149,oatmeal,1,carbohydrate
+150,oatmeal,1,carbohydrate
+151,oatmeal,1,carbohydrate
+152,oatmeal,1,carbohydrate
+153,oatmeal,1,carbohydrate
+154,oatmeal,1,carbohydrate
+155,oatmeal,1,carbohydrate
+156,oatmeal,1,carbohydrate
+157,oatmeal,1,carbohydrate
+158,oatmeal,1,carbohydrate
+159,oatmeal,1,carbohydrate
+160,oatmeal,1,carbohydrate
+161,oatmeal,1,carbohydrate
+162,oatmeal,1,carbohydrate
+163,oatmeal,1,carbohydrate
+164,oatmeal,1,carbohydrate
+165,oatmeal,1,carbohydrate
+166,oatmeal,1,carbohydrate
+167,oatmeal,1,carbohydrate
+168,oatmeal,1,carbohydrate
+169,oatmeal,1,carbohydrate
+170,shave_ice,0,"sugars, fats"
+171,shave_ice,0,"sugars, fats"
+172,shave_ice,0,"sugars, fats"
+173,shave_ice,0,"sugars, fats"
+174,shave_ice,0,"sugars, fats"
+175,shave_ice,0,"sugars, fats"
+176,shave_ice,0,"sugars, fats"
+177,shave_ice,0,"sugars, fats"
+178,shave_ice,0,"sugars, fats"
+179,shave_ice,0,"sugars, fats"
+180,shave_ice,0,"sugars, fats"
+181,shave_ice,0,"sugars, fats"
+182,shave_ice,0,"sugars, fats"
+183,shave_ice,0,"sugars, fats"
+184,shave_ice,0,"sugars, fats"
+185,shave_ice,0,"sugars, fats"
+186,shave_ice,0,"sugars, fats"
+187,shave_ice,0,"sugars, fats"
+188,shave_ice,0,"sugars, fats"
+189,shave_ice,0,"sugars, fats"
+190,shave_ice,0,"sugars, fats"
+191,shave_ice,0,"sugars, fats"
+192,shave_ice,0,"sugars, fats"
+193,shave_ice,0,"sugars, fats"
+194,shave_ice,0,"sugars, fats"
+195,shave_ice,0,"sugars, fats"
+196,shave_ice,0,"sugars, fats"
+197,shave_ice,0,"sugars, fats"
+198,shave_ice,0,"sugars, fats"
+199,shave_ice,0,"sugars, fats"
+200,shave_ice,0,"sugars, fats"
+201,shave_ice,0,"sugars, fats"
+202,shave_ice,0,"sugars, fats"
+203,shave_ice,0,"sugars, fats"
+204,shave_ice,0,"sugars, fats"
+205,shave_ice,0,"sugars, fats"
+206,icecream,0,"sugars, fats"
+207,icecream,0,"sugars, fats"
+208,icecream,0,"sugars, fats"
+209,icecream,0,"sugars, fats"
+210,icecream,0,"sugars, fats"
+211,icecream,0,"sugars, fats"
+212,icecream,0,"sugars, fats"
+213,icecream,0,"sugars, fats"
+214,icecream,0,"sugars, fats"
+215,icecream,0,"sugars, fats"
+216,icecream,0,"sugars, fats"
+217,icecream,0,"sugars, fats"
+218,icecream,0,"sugars, fats"
+219,icecream,0,"sugars, fats"
+220,icecream,0,"sugars, fats"
+221,icecream,0,"sugars, fats"
+222,icecream,0,"sugars, fats"
+223,icecream,0,"sugars, fats"
+224,icecream,0,"sugars, fats"
+225,icecream,0,"sugars, fats"
+226,icecream,0,"sugars, fats"
+227,icecream,0,"sugars, fats"
+228,icecream,0,"sugars, fats"
+229,icecream,0,"sugars, fats"
+230,icecream,0,"sugars, fats"
+231,icecream,0,"sugars, fats"
+232,icecream,0,"sugars, fats"
+233,icecream,0,"sugars, fats"
+234,icecream,0,"sugars, fats"
+235,icecream,0,"sugars, fats"
+236,icecream,0,"sugars, fats"
+237,icecream,0,"sugars, fats"
+238,icecream,0,"sugars, fats"
+239,icecream,0,"sugars, fats"
+240,icecream,0,"sugars, fats"
+241,waffle,0,"sugars, fats,carbohydrate"
+242,waffle,0,"sugars, fats,carbohydrate"
+243,waffle,0,"sugars, fats,carbohydrate"
+244,waffle,0,"sugars, fats,carbohydrate"
+245,waffle,0,"sugars, fats,carbohydrate"
+246,"waffle,icecream",0,"sugars, fats,carbohydrate"
+247,waffle,0,"sugars, fats,carbohydrate"
+248,waffle,0,"sugars, fats,carbohydrate"
+249,waffle,0,"sugars, fats,carbohydrate"
+250,waffle,0,"sugars, fats,carbohydrate"
+251,waffle,0,"sugars, fats,carbohydrate"
+252,waffle,0,"sugars, fats,carbohydrate"
+253,waffle,0,"sugars, fats,carbohydrate"
+254,waffle,0,"sugars, fats,carbohydrate"
+255,waffle,0,"sugars, fats,carbohydrate"
+256,waffle,0,"sugars, fats,carbohydrate"
+257,waffle,0,"sugars, fats,carbohydrate"
+258,waffle,0,"sugars, fats,carbohydrate"
+259,waffle,0,"sugars, fats,carbohydrate"
+260,waffle,0,"sugars, fats,carbohydrate"
+261,waffle,0,"sugars, fats,carbohydrate"
+262,waffle,0,"sugars, fats,carbohydrate"
+263,waffle,0,"sugars, fats,carbohydrate"
+264,waffle,0,"sugars, fats,carbohydrate"
+265,waffle,0,"sugars, fats,carbohydrate"
+266,waffle,0,"sugars, fats,carbohydrate"
+267,waffle,0,"sugars, fats,carbohydrate"
+268,waffle,0,"sugars, fats,carbohydrate"
+269,waffle,0,"sugars, fats,carbohydrate"
+270,waffle,0,"sugars, fats,carbohydrate"
+271,waffle,0,"sugars, fats,carbohydrate"
+272,waffle,0,"sugars, fats,carbohydrate"
+273,waffle,0,"sugars, fats,carbohydrate"
+274,waffle,0,"sugars, fats,carbohydrate"
+275,waffle,0,"sugars, fats,carbohydrate"
+276,waffle,0,"sugars, fats,carbohydrate"
+277,"waffle, icecream",0,"sugars, fats,carbohydrate"
+278,waffle,0,"sugars, fats,carbohydrate"
+279,cake,0,"sugars, fats"
+280,cake,0,"sugars, fats"
+281,cake,0,"sugars, fats"
+282,cake,0,"sugars, fats"
+283,cake,0,"sugars, fats"
+284,cake,0,"sugars, fats"
+285,cake,0,"sugars, fats"
+286,cake,0,"sugars, fats"
+287,cake,0,"sugars, fats"
+288,cake,0,"sugars, fats"
+289,cake,0,"sugars, fats"
+290,cake,0,"sugars, fats"
+291,cake,0,"sugars, fats"
+292,cake,0,"sugars, fats"
+293,cake,0,"sugars, fats"
+294,cake,0,"sugars, fats"
+295,cake,0,"sugars, fats"
+296,cake,0,"sugars, fats"
+297,cake,0,"sugars, fats"
+298,cake,0,"sugars, fats"
+299,cake,0,"sugars, fats"
+300,cake,0,"sugars, fats"
+301,cake,0,"sugars, fats"
+302,cake,0,"sugars, fats"
+303,cake,0,"sugars, fats"
+304,cake,0,"sugars, fats"
+305,cake,0,"sugars, fats"
+306,cake,0,"sugars, fats"
+307,cake,0,"sugars, fats"
+308,cake,0,"sugars, fats"
+309,cake,0,"sugars, fats"
+310,cake,0,"sugars, fats"
+311,cake,0,"sugars, fats"
+312,cake,0,"sugars, fats"
+313,cake,0,"sugars, fats"
+314,cake,0,"sugars, fats"
+315,cake,0,"sugars, fats"
+316,cake,0,"sugars, fats"
+317,caf?_beverage,0,sugars
+318,caf?_beverage,0,sugars
+319,caf?_beverage,0,sugars
+320,caf?_beverage,0,sugars
+321,caf?_beverage,0,sugars
+322,caf?_beverage,0,sugars
+323,caf?_beverage,0,sugars
+324,caf?_beverage,0,sugars
+325,caf?_beverage,0,sugars
+326,caf?_beverage,0,sugars
+327,caf?_beverage,0,sugars
+328,caf?_beverage,0,sugars
+329,caf?_beverage,0,sugars
+330,caf?_beverage,0,sugars
+331,caf?_beverage,0,sugars
+332,caf?_beverage,0,sugars
+333,caf?_beverage,0,sugars
+334,caf?_beverage,0,sugars
+335,caf?_beverage,0,sugars
+336,caf?_beverage,0,sugars
+337,caf?_beverage,0,sugars
+338,caf?_beverage,0,sugars
+339,caf?_beverage,0,sugars
+340,caf?_beverage,0,sugars
+341,caf?_beverage,0,sugars
+342,caf?_beverage,0,sugars
+343,caf?_beverage,0,sugars
+344,caf?_beverage,0,sugars
+345,caf?_beverage,0,sugars
+346,caf?_beverage,0,sugars
+347,caf?_beverage,0,sugars
+348,caf?_beverage,0,sugars
+349,caf?_beverage,0,sugars
+350,caf?_beverage,0,sugars
+351,caf?_beverage,0,sugars
+352,caf?_beverage,0,sugars
+353,caf?_beverage,0,sugars
+354,caf?_beverage,0,sugars
+355,cookie,0,"sugars, fats"
+356,cookie,0,"sugars, fats"
+357,cookie,0,"sugars, fats"
+358,cookie,0,"sugars, fats"
+359,cookie,0,"sugars, fats"
+360,cookie,0,"sugars, fats"
+361,cookie,0,"sugars, fats"
+362,cookie,0,"sugars, fats"
+363,cookie,0,"sugars, fats"
+364,cookie,0,"sugars, fats"
+365,cookie,0,"sugars, fats"
+366,cookie,0,"sugars, fats"
+367,cookie,0,"sugars, fats"
+368,cookie,0,"sugars, fats"
+369,cookie,0,"sugars, fats"
+370,cookie,0,"sugars, fats"
+371,cookie,0,"sugars, fats"
+372,cookie,0,"sugars, fats"
+373,cookie,0,"sugars, fats"
+374,cookie,0,"sugars, fats"
+375,cookie,0,"sugars, fats"
+376,cookie,0,"sugars, fats"
+377,cookie,0,"sugars, fats"
+378,cookie,0,"sugars, fats"
+379,cookie,0,"sugars, fats"
+380,cookie,0,"sugars, fats"
+381,cookie,0,"sugars, fats"
+382,cookie,0,"sugars, fats"
+383,cookie,0,"sugars, fats"
+384,korean_noodle,1,carbohydrate
+385,korean_noodle,1,carbohydrate
+386,korean_noodle,1,carbohydrate
+387,korean_noodle,1,carbohydrate
+388,korean_noodle,1,carbohydrate
+389,korean_noodle,1,carbohydrate
+390,korean_noodle,1,carbohydrate
+391,korean_noodle,1,carbohydrate
+392,korean_noodle,1,carbohydrate
+393,korean_noodle,1,carbohydrate
+394,korean_noodle,1,carbohydrate
+395,korean_noodle,1,carbohydrate
+396,korean_noodle,1,carbohydrate
+397,korean_noodle,1,carbohydrate
+398,korean_noodle,1,carbohydrate
+399,korean_noodle,1,carbohydrate
+400,korean_noodle,1,carbohydrate
+401,korean_noodle,1,carbohydrate
+402,korean_noodle,1,carbohydrate
+403,korean_noodle,1,carbohydrate
+404,korean_noodle,1,carbohydrate
+405,korean_noodle,1,carbohydrate
+406,korean_noodle,1,carbohydrate
+407,korean_noodle,1,carbohydrate
+408,korean_noodle,1,carbohydrate
+409,korean_noodle,1,carbohydrate
+410,korean_noodle,1,carbohydrate
+411,korean_noodle,1,carbohydrate
+412,korean_noodle,1,carbohydrate
+413,korean_noodle,1,carbohydrate
+414,korean_noodle,1,carbohydrate
+415,korean_noodle,1,carbohydrate
+416,korean_noodle,1,carbohydrate
+417,korean_noodle,1,carbohydrate
+418,korean_noodle,1,carbohydrate
+419,cold_noodle,0,carbohydrate
+420,cold_noodle,0,carbohydrate
+421,cold_noodle,0,carbohydrate
+422,cold_noodle,0,carbohydrate
+423,cold_noodle,0,carbohydrate
+424,cold_noodle,0,carbohydrate
+425,cold_noodle,0,carbohydrate
+426,cold_noodle,0,carbohydrate
+427,cold_noodle,0,carbohydrate
+428,cold_noodle,0,carbohydrate
+429,cold_noodle,0,carbohydrate
+430,cold_noodle,0,carbohydrate
+431,cold_noodle,0,carbohydrate
+432,cold_noodle,0,carbohydrate
+433,cold_noodle,0,carbohydrate
+434,cold_noodle,0,carbohydrate
+435,cold_noodle,0,carbohydrate
+436,cold_noodle,0,carbohydrate
+437,cold_noodle,0,carbohydrate
+438,cold_noodle,0,carbohydrate
+439,cold_noodle,0,carbohydrate
+440,cold_noodle,0,carbohydrate
+441,cold_noodle,0,carbohydrate
+442,cold_noodle,0,carbohydrate
+443,cold_noodle,0,carbohydrate
+444,cold_noodle,0,carbohydrate
+445,cold_noodle,0,carbohydrate
+446,cold_noodle,0,carbohydrate
+447,cold_noodle,0,carbohydrate
+448,cold_noodle,0,carbohydrate
+449,cold_noodle,0,carbohydrate
+450,cold_noodle,0,carbohydrate
+451,cold_noodle,0,carbohydrate
+452,cold_noodle,0,carbohydrate
+453,cold_noodle,0,carbohydrate
+454,cold_noodle,0,carbohydrate
+455,cold_noodle,0,carbohydrate
+456,ramen,1,"carbohydrate, fats"
+457,ramen,1,"carbohydrate, fats"
+458,ramen,1,"carbohydrate, fats"
+459,ramen,1,"carbohydrate, fats"
+460,ramen,1,"carbohydrate, fats"
+461,ramen,1,"carbohydrate, fats"
+462,ramen,1,"carbohydrate, fats"
+463,ramen,1,"carbohydrate, fats"
+464,ramen,1,"carbohydrate, fats"
+465,ramen,1,"carbohydrate, fats"
+466,ramen,1,"carbohydrate, fats"
+467,ramen,1,"carbohydrate, fats"
+468,ramen,1,"carbohydrate, fats"
+469,ramen,1,"carbohydrate, fats"
+470,ramen,1,"carbohydrate, fats"
+471,ramen,1,"carbohydrate, fats"
+472,ramen,1,"carbohydrate, fats"
+473,ramen,1,"carbohydrate, fats"
+474,ramen,1,"carbohydrate, fats"
+475,ramen,1,"carbohydrate, fats"
+476,ramen,1,"carbohydrate, fats"
+477,ramen,1,"carbohydrate, fats"
+478,ramen,1,"carbohydrate, fats"
+479,ramen,1,"carbohydrate, fats"
+480,ramen,1,"carbohydrate, fats"
+481,ramen,1,"carbohydrate, fats"
+482,ramen,1,"carbohydrate, fats"
+483,ramen,1,"carbohydrate, fats"
+484,ramen,1,"carbohydrate, fats"
+485,ramen,1,"carbohydrate, fats"
+486,ramen,1,"carbohydrate, fats"
+487,ramen,1,"carbohydrate, fats"
+488,ramen,1,"carbohydrate, fats"
+489,jjajang,0,"carbohydrate, fats"
+490,ramen,1,"carbohydrate, fats"
+491,ramen,1,"carbohydrate, fats"
+492,jjajang,0,"carbohydrate, fats"
+493,jjajang,0,"carbohydrate, fats"
+494,jjajang,0,"carbohydrate, fats"
+495,jjajang,0,"carbohydrate, fats"
+496,jjajang,0,"carbohydrate, fats"
+497,jjajang,0,"carbohydrate, fats"
+498,jjajang,0,"carbohydrate, fats"
+499,jjajang,0,"carbohydrate, fats"
+500,jjajang,0,"carbohydrate, fats"
+501,jjajang,0,"carbohydrate, fats"
+502,jjajang,0,"carbohydrate, fats"
+503,jjajang,0,"carbohydrate, fats"
+504,jjajang,0,"carbohydrate, fats"
+505,jjajang,0,"carbohydrate, fats"
+506,jjajang,0,"carbohydrate, fats"
+507,jjajang,0,"carbohydrate, fats"
+508,jjajang,0,"carbohydrate, fats"
+509,jjajang,0,"carbohydrate, fats"
+510,jjajang,0,"carbohydrate, fats"
+511,jjajang,0,"carbohydrate, fats"
+512,jjajang,0,"carbohydrate, fats"
+513,jjajang,0,"carbohydrate, fats"
+514,jjajang,0,"carbohydrate, fats"
+515,jjajang,0,"carbohydrate, fats"
+516,jjajang,0,"carbohydrate, fats"
+517,jjajang,0,"carbohydrate, fats"
+518,jjajang,0,"carbohydrate, fats"
+519,jjajang,0,"carbohydrate, fats"
+520,jjajang,0,"carbohydrate, fats"
+521,jjajang,0,"carbohydrate, fats"
+522,jjajang,0,"carbohydrate, fats"
+523,jjajang,0,"carbohydrate, fats"
+524,jjajang,0,"carbohydrate, fats"
+525,jjajang,0,"carbohydrate, fats"
+526,jjajang,0,"carbohydrate, fats"
+527,jjajang,0,"carbohydrate, fats"
+528,jjajang,0,"carbohydrate, fats"
+529,jjajang,0,"carbohydrate, fats"
+530,jjampon,0,"carbohydrate, fats"
+531,jjampon,0,"carbohydrate, fats"
+532,jjampon,0,"carbohydrate, fats"
+533,jjampon,0,"carbohydrate, fats"
+534,jjampon,0,"carbohydrate, fats"
+535,jjampon,0,"carbohydrate, fats"
+536,jjampon,0,"carbohydrate, fats"
+537,jjampon,0,"carbohydrate, fats"
+538,jjampon,0,"carbohydrate, fats"
+539,jjampon,0,"carbohydrate, fats"
+540,jjampon,0,"carbohydrate, fats"
+541,jjampon,0,"carbohydrate, fats"
+542,jjampon,0,"carbohydrate, fats"
+543,jjampon,0,"carbohydrate, fats"
+544,jjampon,0,"carbohydrate, fats"
+545,jjampon,0,"carbohydrate, fats"
+546,jjampon,0,"carbohydrate, fats"
+547,jjampon,0,"carbohydrate, fats"
+548,jjampon,0,"carbohydrate, fats"
+549,jjampon,0,"carbohydrate, fats"
+550,jjampon,0,"carbohydrate, fats"
+551,jjampon,0,"carbohydrate, fats"
+552,jjampon,0,"carbohydrate, fats"
+553,jjampon,0,"carbohydrate, fats"
+554,jjampon,0,"carbohydrate, fats"
+555,jjampon,0,"carbohydrate, fats"
+556,jjampon,0,"carbohydrate, fats"
+557,jjampon,0,"carbohydrate, fats"
+558,jjampon,0,"carbohydrate, fats"
+559,jjampon,0,"carbohydrate, fats"
+560,jjampon,0,"carbohydrate, fats"
+561,jjampon,0,"carbohydrate, fats"
+562,jjampon,0,"carbohydrate, fats"
+563,jjampon,0,"carbohydrate, fats"
+564,jjampon,0,"carbohydrate, fats"
+565,jjampon,0,"carbohydrate, fats"
+566,pasta,0,"carbohydrate, fats"
+567,pasta,0,"carbohydrate, fats"
+568,pasta,0,"carbohydrate, fats"
+569,pasta,0,"carbohydrate, fats"
+570,pasta,0,"carbohydrate, fats"
+571,pasta,0,"carbohydrate, fats"
+572,pasta,0,"carbohydrate, fats"
+573,pasta,0,"carbohydrate, fats"
+574,pasta,0,"carbohydrate, fats"
+575,pasta,0,"carbohydrate, fats"
+576,pasta,0,"carbohydrate, fats"
+577,pasta,0,"carbohydrate, fats"
+578,pasta,0,"carbohydrate, fats"
+579,pasta,0,"carbohydrate, fats"
+580,pasta,0,"carbohydrate, fats"
+581,pasta,0,"carbohydrate, fats"
+582,pasta,0,"carbohydrate, fats"
+583,pasta,0,"carbohydrate, fats"
+584,pasta,0,"carbohydrate, fats"
+585,pasta,0,"carbohydrate, fats"
+586,pasta,0,"carbohydrate, fats"
+587,pasta,0,"carbohydrate, fats"
+588,pasta,0,"carbohydrate, fats"
+589,pasta,0,"carbohydrate, fats"
+590,pasta,0,"carbohydrate, fats"
+591,pasta,0,"carbohydrate, fats"
+592,pasta,0,"carbohydrate, fats"
+593,pasta,0,"carbohydrate, fats"
+594,pasta,0,"carbohydrate, fats"
+595,pasta,0,"carbohydrate, fats"
+596,pasta,0,"carbohydrate, fats"
+597,pasta,0,"carbohydrate, fats"
+598,pasta,0,"carbohydrate, fats"
+599,pasta,0,"carbohydrate, fats"
+600,pasta,0,"carbohydrate, fats"
+601,pasta,0,"carbohydrate, fats"
+602,pasta,0,"carbohydrate, fats"
+603,pasta,0,"carbohydrate, fats"
+604,bowl_of_rice,0,"carbohydrate, fats, protein"
+605,bowl_of_rice,0,"carbohydrate, fats, protein"
+606,bowl_of_rice,0,"carbohydrate, fats, protein"
+607,bowl_of_rice,0,"carbohydrate, fats, protein"
+608,bowl_of_rice,0,"carbohydrate, fats, protein"
+609,bowl_of_rice,0,"carbohydrate, fats, protein"
+610,bowl_of_rice,0,"carbohydrate, fats, protein"
+611,bowl_of_rice,0,"carbohydrate, fats, protein"
+612,bowl_of_rice,0,"carbohydrate, fats, protein"
+613,bowl_of_rice,0,"carbohydrate, fats, protein"
+614,bowl_of_rice,0,"carbohydrate, fats, protein"
+615,bowl_of_rice,0,"carbohydrate, fats, protein"
+616,bowl_of_rice,0,"carbohydrate, fats, protein"
+617,bowl_of_rice,0,"carbohydrate, fats, protein"
+618,bowl_of_rice,0,"carbohydrate, fats, protein"
+619,bowl_of_rice,0,"carbohydrate, fats, protein"
+620,bowl_of_rice,0,"carbohydrate, fats, protein"
+621,bowl_of_rice,0,"carbohydrate, fats, protein"
+622,bowl_of_rice,0,"carbohydrate, fats, protein"
+623,bowl_of_rice,0,"carbohydrate, fats, protein"
+624,bowl_of_rice,0,"carbohydrate, fats, protein"
+625,bowl_of_rice,0,"carbohydrate, fats, protein"
+626,bowl_of_rice,0,"carbohydrate, fats, protein"
+627,bowl_of_rice,0,"carbohydrate, fats, protein"
+628,bowl_of_rice,0,"carbohydrate, fats, protein"
+629,bowl_of_rice,0,"carbohydrate, fats, protein"
+630,bowl_of_rice,0,"carbohydrate, fats, protein"
+631,bowl_of_rice,0,"carbohydrate, fats, protein"
+632,bowl_of_rice,0,"carbohydrate, fats, protein"
+633,bowl_of_rice,0,"carbohydrate, fats, protein"
+634,bowl_of_rice,0,"carbohydrate, fats, protein"
+635,bowl_of_rice,0,"carbohydrate, fats, protein"
+636,bowl_of_rice,0,"carbohydrate, fats, protein"
+637,bowl_of_rice,0,"carbohydrate, fats, protein"
+638,bowl_of_rice,0,"carbohydrate, fats, protein"
+639,bowl_of_rice,0,"carbohydrate, fats, protein"
+640,bowl_of_rice,0,"carbohydrate, fats, protein"
+641,cutlet,0,"carbohydrate, fats, protein"
+642,cutlet,0,"carbohydrate, fats, protein"
+643,cutlet,0,"carbohydrate, fats, protein"
+644,cutlet,0,"carbohydrate, fats, protein"
+645,cutlet,0,"carbohydrate, fats, protein"
+646,cutlet,0,"carbohydrate, fats, protein"
+647,cutlet,0,"carbohydrate, fats, protein"
+648,cutlet,0,"carbohydrate, fats, protein"
+649,cutlet,0,"carbohydrate, fats, protein"
+650,cutlet,0,"carbohydrate, fats, protein"
+651,cutlet,0,"carbohydrate, fats, protein"
+652,cutlet,0,"carbohydrate, fats, protein"
+653,cutlet,0,"carbohydrate, fats, protein"
+654,cutlet,0,"carbohydrate, fats, protein"
+655,cutlet,0,"carbohydrate, fats, protein"
+656,cutlet,0,"carbohydrate, fats, protein"
+657,cutlet,0,"carbohydrate, fats, protein"
+658,cutlet,0,"carbohydrate, fats, protein"
+659,cutlet,0,"carbohydrate, fats, protein"
+660,cutlet,0,"carbohydrate, fats, protein"
+661,cutlet,0,"carbohydrate, fats, protein"
+662,cutlet,0,"carbohydrate, fats, protein"
+663,cutlet,0,"carbohydrate, fats, protein"
+664,cutlet,0,"carbohydrate, fats, protein"
+665,cutlet,0,"carbohydrate, fats, protein"
+666,cutlet,0,"carbohydrate, fats, protein"
+667,cutlet,0,"carbohydrate, fats, protein"
+668,cutlet,0,"carbohydrate, fats, protein"
+669,cutlet,0,"carbohydrate, fats, protein"
+670,cutlet,0,"carbohydrate, fats, protein"
+671,cutlet,0,"carbohydrate, fats, protein"
+672,cutlet,0,"carbohydrate, fats, protein"
+673,cutlet,0,"carbohydrate, fats, protein"
+674,cutlet,0,"carbohydrate, fats, protein"
+675,cutlet,0,"carbohydrate, fats, protein"
+676,cutlet,0,"carbohydrate, fats, protein"
+677,cutlet,0,"carbohydrate, fats, protein"
+678,cutlet,0,"carbohydrate, fats, protein"
+679,fried_rice,0,"carbohydrate, fats"
+680,fried_rice,0,"carbohydrate, fats"
+681,fried_rice,0,"carbohydrate, fats"
+682,fried_rice,0,"carbohydrate, fats"
+683,fried_rice,0,"carbohydrate, fats"
+684,fried_rice,0,"carbohydrate, fats"
+685,fried_rice,0,"carbohydrate, fats"
+686,fried_rice,0,"carbohydrate, fats"
+687,fried_rice,0,"carbohydrate, fats"
+688,fried_rice,0,"carbohydrate, fats"
+689,fried_rice,0,"carbohydrate, fats"
+690,fried_rice,0,"carbohydrate, fats"
+691,fried_rice,0,"carbohydrate, fats"
+692,fried_rice,0,"carbohydrate, fats"
+693,fried_rice,0,"carbohydrate, fats"
+694,fried_rice,0,"carbohydrate, fats"
+695,fried_rice,0,"carbohydrate, fats"
+696,fried_rice,0,"carbohydrate, fats"
+697,fried_rice,0,"carbohydrate, fats"
+698,fried_rice,0,"carbohydrate, fats"
+699,fried_rice,0,"carbohydrate, fats"
+700,fried_rice,0,"carbohydrate, fats"
+701,fried_rice,0,"carbohydrate, fats"
+702,fried_rice,0,"carbohydrate, fats"
+703,fried_rice,0,"carbohydrate, fats"
+704,fried_rice,0,"carbohydrate, fats"
+705,fried_rice,0,"carbohydrate, fats"
+706,fried_rice,0,"carbohydrate, fats"
+707,fried_rice,0,"carbohydrate, fats"
+708,fried_rice,0,"carbohydrate, fats"
+709,fried_rice,0,"carbohydrate, fats"
+710,fried_rice,0,"carbohydrate, fats"
+711,fried_rice,0,"carbohydrate, fats"
+712,fried_rice,0,"carbohydrate, fats"
+713,fried_rice,0,"carbohydrate, fats"
+714,fried_rice,0,"carbohydrate, fats"
+715,fried_rice,0,"carbohydrate, fats"
+716,fried_rice,0,"carbohydrate, fats"
+717,omelet_rice,0,"carbohydrate, fats,protein"
+718,omelet_rice,0,"carbohydrate, fats,protein"
+719,omelet_rice,0,"carbohydrate, fats,protein"
+720,omelet_rice,0,"carbohydrate, fats,protein"
+721,omelet_rice,0,"carbohydrate, fats,protein"
+722,omelet_rice,0,"carbohydrate, fats,protein"
+723,omelet_rice,0,"carbohydrate, fats,protein"
+724,omelet_rice,0,"carbohydrate, fats,protein"
+725,omelet_rice,0,"carbohydrate, fats,protein"
+726,omelet_rice,0,"carbohydrate, fats,protein"
+727,omelet_rice,0,"carbohydrate, fats,protein"
+728,omelet_rice,0,"carbohydrate, fats,protein"
+729,omelet_rice,0,"carbohydrate, fats,protein"
+730,omelet_rice,0,"carbohydrate, fats,protein"
+731,omelet_rice,0,"carbohydrate, fats,protein"
+732,omelet_rice,0,"carbohydrate, fats,protein"
+733,omelet_rice,0,"carbohydrate, fats,protein"
+734,omelet_rice,0,"carbohydrate, fats,protein"
+735,omelet_rice,0,"carbohydrate, fats,protein"
+736,omelet_rice,0,"carbohydrate, fats,protein"
+737,omelet_rice,0,"carbohydrate, fats,protein"
+738,omelet_rice,0,"carbohydrate, fats,protein"
+739,omelet_rice,0,"carbohydrate, fats,protein"
+740,omelet_rice,0,"carbohydrate, fats,protein"
+741,omelet_rice,0,"carbohydrate, fats,protein"
+742,omelet_rice,0,"carbohydrate, fats,protein"
+743,omelet_rice,0,"carbohydrate, fats,protein"
+744,omelet_rice,0,"carbohydrate, fats,protein"
+745,omelet_rice,0,"carbohydrate, fats,protein"
+746,omelet_rice,0,"carbohydrate, fats,protein"
+747,omelet_rice,0,"carbohydrate, fats,protein"
+748,omelet_rice,0,"carbohydrate, fats,protein"
+749,omelet_rice,0,"carbohydrate, fats,protein"
+750,omelet_rice,0,"carbohydrate, fats,protein"
+751,omelet_rice,0,"carbohydrate, fats,protein"
+752,omelet_rice,0,"carbohydrate, fats,protein"
+753,korean_table_d'hote,0,"carbohydrate, fats,protein"
+754,korean_table_d'hote,0,"carbohydrate, fats,protein"
+755,korean_table_d'hote,0,"carbohydrate, fats,protein"
+756,korean_table_d'hote,0,"carbohydrate, fats,protein"
+757,korean_table_d'hote,0,"carbohydrate, fats,protein"
+758,korean_table_d'hote,0,"carbohydrate, fats,protein"
+759,korean_table_d'hote,0,"carbohydrate, fats,protein"
+760,korean_table_d'hote,0,"carbohydrate, fats,protein"
+761,korean_table_d'hote,0,"carbohydrate, fats,protein"
+762,korean_table_d'hote,0,"carbohydrate, fats,protein"
+763,korean_table_d'hote,0,"carbohydrate, fats,protein"
+764,korean_table_d'hote,0,"carbohydrate, fats,protein"
+765,korean_table_d'hote,0,"carbohydrate, fats,protein"
+766,korean_table_d'hote,0,"carbohydrate, fats,protein"
+767,korean_table_d'hote,0,"carbohydrate, fats,protein"
+768,korean_table_d'hote,0,"carbohydrate, fats,protein"
+769,korean_table_d'hote,0,"carbohydrate, fats,protein"
+770,korean_table_d'hote,0,"carbohydrate, fats,protein"
+771,korean_table_d'hote,0,"carbohydrate, fats,protein"
+772,korean_table_d'hote,0,"carbohydrate, fats,protein"
+773,korean_table_d'hote,0,"carbohydrate, fats,protein"
+774,korean_table_d'hote,0,"carbohydrate, fats,protein"
+775,korean_table_d'hote,0,"carbohydrate, fats,protein"
+776,korean_table_d'hote,0,"carbohydrate, fats,protein"
+777,korean_table_d'hote,0,"carbohydrate, fats,protein"
+778,korean_table_d'hote,0,"carbohydrate, fats,protein"
+779,korean_table_d'hote,0,"carbohydrate, fats,protein"
+780,korean_table_d'hote,0,"carbohydrate, fats,protein"
+781,korean_table_d'hote,0,"carbohydrate, fats,protein"
+782,korean_table_d'hote,0,"carbohydrate, fats,protein"
+783,korean_table_d'hote,0,"carbohydrate, fats,protein"
+784,korean_table_d'hote,0,"carbohydrate, fats,protein"
+785,korean_table_d'hote,0,"carbohydrate, fats,protein"
+786,korean_table_d'hote,0,"carbohydrate, fats,protein"
+787,korean_table_d'hote,0,"carbohydrate, fats,protein"
+788,korean_table_d'hote,0,"carbohydrate, fats,protein"
+789,korean_table_d'hote,0,"carbohydrate, fats,protein"
+790,korean_table_d'hote,0,"carbohydrate, fats,protein"
+791,french_fries,0,"carbohydrate, fats"
+792,french_fries,0,"carbohydrate, fats"
+793,french_fries,0,"carbohydrate, fats"
+794,french_fries,0,"carbohydrate, fats"
+795,french_fries,0,"carbohydrate, fats"
+796,french_fries,0,"carbohydrate, fats"
+797,french_fries,0,"carbohydrate, fats"
+798,french_fries,0,"carbohydrate, fats"
+799,french_fries,0,"carbohydrate, fats"
+800,french_fries,0,"carbohydrate, fats"
+801,french_fries,0,"carbohydrate, fats"
+802,french_fries,0,"carbohydrate, fats"
+803,french_fries,0,"carbohydrate, fats"
+804,french_fries,0,"carbohydrate, fats"
+805,french_fries,0,"carbohydrate, fats"
+806,french_fries,0,"carbohydrate, fats"
+807,french_fries,0,"carbohydrate, fats"
+808,french_fries,0,"carbohydrate, fats"
+809,french_fries,0,"carbohydrate, fats"
+810,french_fries,0,"carbohydrate, fats"
+811,french_fries,0,"carbohydrate, fats"
+812,french_fries,0,"carbohydrate, fats"
+813,french_fries,0,"carbohydrate, fats"
+814,french_fries,0,"carbohydrate, fats"
+815,french_fries,0,"carbohydrate, fats"
+816,french_fries,0,"carbohydrate, fats"
+817,french_fries,0,"carbohydrate, fats"
+818,french_fries,0,"carbohydrate, fats"
+819,french_fries,0,"carbohydrate, fats"
+820,french_fries,0,"carbohydrate, fats"
+821,french_fries,0,"carbohydrate, fats"
+822,french_fries,0,"carbohydrate, fats"
+823,french_fries,0,"carbohydrate, fats"
+824,french_fries,0,"carbohydrate, fats"
+825,french_fries,0,"carbohydrate, fats"
+826,french_fries,0,"carbohydrate, fats"
+827,french_fries,0,"carbohydrate, fats"
+828,french_fries,0,"carbohydrate, fats"
+829,stir_fried_ricecake,1,carbohydrate
+830,stir_fried_ricecake,1,carbohydrate
+831,stir_fried_ricecake,1,carbohydrate
+832,stir_fried_ricecake,1,carbohydrate
+833,stir_fried_ricecake,1,carbohydrate
+834,stir_fried_ricecake,1,carbohydrate
+835,stir_fried_ricecake,1,carbohydrate
+836,stir_fried_ricecake,1,carbohydrate
+837,stir_fried_ricecake,1,carbohydrate
+838,stir_fried_ricecake,1,carbohydrate
+839,stir_fried_ricecake,1,carbohydrate
+840,stir_fried_ricecake,1,carbohydrate
+841,stir_fried_ricecake,1,carbohydrate
+842,stir_fried_ricecake,1,carbohydrate
+843,stir_fried_ricecake,1,carbohydrate
+844,stir_fried_ricecake,1,carbohydrate
+845,stir_fried_ricecake,1,carbohydrate
+846,stir_fried_ricecake,1,carbohydrate
+847,stir_fried_ricecake,1,carbohydrate
+848,stir_fried_ricecake,1,carbohydrate
+849,stir_fried_ricecake,1,carbohydrate
+850,stir_fried_ricecake,1,carbohydrate
+851,stir_fried_ricecake,1,carbohydrate
+852,stir_fried_ricecake,1,carbohydrate
+853,stir_fried_ricecake,1,carbohydrate
+854,stir_fried_ricecake,1,carbohydrate
+855,stir_fried_ricecake,1,carbohydrate
+856,stir_fried_ricecake,1,carbohydrate
+857,stir_fried_ricecake,1,carbohydrate
+858,stir_fried_ricecake,1,carbohydrate
+859,stir_fried_ricecake,1,carbohydrate
+860,stir_fried_ricecake,1,carbohydrate
+861,stir_fried_ricecake,1,carbohydrate
+862,stir_fried_ricecake,1,carbohydrate
+863,stir_fried_ricecake,1,carbohydrate
+864,stir_fried_ricecake,1,carbohydrate
+865,stir_fried_ricecake,1,carbohydrate
+866,stir_fried_ricecake,1,carbohydrate
+867,fried_chicken,0,"fats, protein"
+868,fried_chicken,0,"fats, protein"
+869,fried_chicken,0,"fats, protein"
+870,fried_chicken,0,"fats, protein"
+871,fried_chicken,0,"fats, protein"
+872,fried_chicken,0,"fats, protein"
+873,fried_chicken,0,"fats, protein"
+874,fried_chicken,0,"fats, protein"
+875,fried_chicken,0,"fats, protein"
+876,fried_chicken,0,"fats, protein"
+877,fried_chicken,0,"fats, protein"
+878,fried_chicken,0,"fats, protein"
+879,fried_chicken,0,"fats, protein"
+880,fried_chicken,0,"fats, protein"
+881,fried_chicken,0,"fats, protein"
+882,fried_chicken,0,"fats, protein"
+883,fried_chicken,0,"fats, protein"
+884,fried_chicken,0,"fats, protein"
+885,fried_chicken,0,"fats, protein"
+886,fried_chicken,0,"fats, protein"
+887,fried_chicken,0,"fats, protein"
+888,fried_chicken,0,"fats, protein"
+889,fried_chicken,0,"fats, protein"
+890,fried_chicken,0,"fats, protein"
+891,fried_chicken,0,"fats, protein"
+892,fried_chicken,0,"fats, protein"
+893,fried_chicken,0,"fats, protein"
+894,fried_chicken,0,"fats, protein"
+895,fried_chicken,0,"fats, protein"
+896,fried_chicken,0,"fats, protein"
+897,fried_chicken,0,"fats, protein"
+898,fried_chicken,0,"fats, protein"
+899,fried_chicken,0,"fats, protein"
+900,fried_chicken,0,"fats, protein"
+901,fried_chicken,0,"fats, protein"
+902,fried_chicken,0,"fats, protein"
+903,fried_chicken,0,"fats, protein"
+904,fried_chicken,0,"fats, protein"
+905,pizza,0,"fats, protein"
+906,pizza,0,"fats, protein"
+907,pizza,0,"fats, protein"
+908,pizza,0,"fats, protein"
+909,pizza,0,"fats, protein"
+910,pizza,0,"fats, protein"
+911,pizza,0,"fats, protein"
+912,pizza,0,"fats, protein"
+913,pizza,0,"fats, protein"
+914,pizza,0,"fats, protein"
+915,pizza,0,"fats, protein"
+916,pizza,0,"fats, protein"
+917,pizza,0,"fats, protein"
+918,pizza,0,"fats, protein"
+919,pizza,0,"fats, protein"
+920,pizza,0,"fats, protein"
+921,pizza,0,"fats, protein"
+922,pizza,0,"fats, protein"
+923,pizza,0,"fats, protein"
+924,pizza,0,"fats, protein"
+925,pizza,0,"fats, protein"
+926,pizza,0,"fats, protein"
+927,pizza,0,"fats, protein"
+928,pizza,0,"fats, protein"
+929,pizza,0,"fats, protein"
+930,pizza,0,"fats, protein"
+931,pizza,0,"fats, protein"
+932,pizza,0,"fats, protein"
+933,pizza,0,"fats, protein"
+934,pizza,0,"fats, protein"
+935,pizza,0,"fats, protein"
+936,pizza,0,"fats, protein"
+937,pizza,0,"fats, protein"
+938,pizza,0,"fats, protein"
+939,pizza,0,"fats, protein"
+940,pizza,0,"fats, protein"
+941,pizza,0,"fats, protein"
+942,pizza,0,"fats, protein"
+943,hamburger,0,"fats, protein,carbohydrate"
+944,hamburger,0,"fats, protein,carbohydrate"
+945,hamburger,0,"fats, protein,carbohydrate"
+946,hamburger,0,"fats, protein,carbohydrate"
+947,hamburger,0,"fats, protein,carbohydrate"
+948,hamburger,0,"fats, protein,carbohydrate"
+949,hamburger,0,"fats, protein,carbohydrate"
+950,hamburger,0,"fats, protein,carbohydrate"
+951,hamburger,0,"fats, protein,carbohydrate"
+952,hamburger,0,"fats, protein,carbohydrate"
+953,hamburger,0,"fats, protein,carbohydrate"
+954,hamburger,0,"fats, protein,carbohydrate"
+955,hamburger,0,"fats, protein,carbohydrate"
+956,hamburger,0,"fats, protein,carbohydrate"
+957,hamburger,0,"fats, protein,carbohydrate"
+958,hamburger,0,"fats, protein,carbohydrate"
+959,hamburger,0,"fats, protein,carbohydrate"
+960,hamburger,0,"fats, protein,carbohydrate"
+961,hamburger,0,"fats, protein,carbohydrate"
+962,hamburger,0,"fats, protein,carbohydrate"
+963,hamburger,0,"fats, protein,carbohydrate"
+964,hamburger,0,"fats, protein,carbohydrate"
+965,hamburger,0,"fats, protein,carbohydrate"
+966,hamburger,0,"fats, protein,carbohydrate"
+967,hamburger,0,"fats, protein,carbohydrate"
+968,hamburger,0,"fats, protein,carbohydrate"
+969,hamburger,0,"fats, protein,carbohydrate"
+970,hamburger,0,"fats, protein,carbohydrate"
+971,hamburger,0,"fats, protein,carbohydrate"
+972,hamburger,0,"fats, protein,carbohydrate"
+973,hamburger,0,"fats, protein,carbohydrate"
+974,hamburger,0,"fats, protein,carbohydrate"
+975,hamburger,0,"fats, protein,carbohydrate"
+976,hamburger,0,"fats, protein,carbohydrate"
+977,hamburger,0,"fats, protein,carbohydrate"
+978,hamburger,0,"fats, protein,carbohydrate"
